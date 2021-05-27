@@ -5,6 +5,10 @@ class Translation(object):
     START_TEXT = """
 Hello {} , I'am a YouTube uploader bot with permanent thumbnail support.
 
+<b>Only Channel Subscribers are allowed to use this bot 🔒</b>
+
+<b>➡️  So Join @PyJeBots 🔑</b>
+
 Made by ❤️ in 🇮🇳
 """
     HELP_TEXT = """
@@ -72,6 +76,6 @@ URL | newfilename | username | password"""
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
     REPORT_SITE_TEXT = "<code>Sorry not uploading in this site here because this site is reporting site.</code>"
-    SOMETHING_WRONG = "<code>Something Wrong. Try again.</code>"
-    FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
-    FREE_USER_LIMIT_Q_SZE = "Sorry Friend, Free users can only 1 request per {} minutes. Please try again after {} seconds later."
+    SOMETHING_WRONG = "<code>Something Went Wrong ❌ Try again.</code>"
+    FORCE_SUBSCRIBE_TEXT = "<b>I already told You that You cannot use this bot without Subscribing My Channel ❌ \n\n➡️  So Join @PyJeBots 🔑</b>"
+    FREE_USER_LIMIT_Q_SZE = "<b>Sorry Dear 😔, Free users can only send 1 request per {} minutes. Please try again after {} seconds later.\n\nContact [Jack](https://t.me/PyJeDeveloper) For Upgrading Your Subscription 📦 </b> "

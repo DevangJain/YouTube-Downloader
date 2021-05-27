@@ -17,7 +17,7 @@ class Config(object):
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
     # Telegram maximum file upload size
-    TG_MAX_FILE_SIZE = 2097152000
+    TG_MAX_FILE_SIZE = 734003200
 
     # chunk size that should be used with requests
     CHUNK_SIZE = 128

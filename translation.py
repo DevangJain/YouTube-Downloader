@@ -24,13 +24,13 @@ Made by ❤️ in 🇮🇳
 <b><u>Show Thumbnail</u></b>
 ➠ Send /showthumb to view custom thumbnail.
 
-b><u>Important 📢</u></b>
+<b><u>Important 📢</u></b>
 ➠ You Must Subscribe [PyJeBots©](https://t.me/PyJeBots)
 """
     ABOUT_TEXT = """
 - **Bot :** `YouTube URL Uploader`
 - **Creator :** [Jack](https://telegram.me/PyJeDeveloper)
-- **Channel :** [PyJeBots](https://telegram.me/PyJeBots)
+- **Channel :** [PyJe Bots©](https://telegram.me/PyJeBots)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
